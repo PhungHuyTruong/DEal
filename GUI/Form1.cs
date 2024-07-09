@@ -105,5 +105,9 @@ namespace GUI
         {
 
         }
+        public void CH()
+        {
+            MessageBox.Show("fsdf");
+        }
     }
 }
